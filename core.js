@@ -1,6 +1,6 @@
 /**
  * 
- * @Author zhangyq (zhangyq_wb@os.ucweb.com)
+ * @Author zhangyq
  * @Date   2016-07-01
  * 
  */
