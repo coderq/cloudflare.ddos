@@ -1,0 +1,22 @@
+{
+  "name": "cloudflare.ddos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderq/cloudflare.ddos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderq/cloudflare.ddos/issues"
+  },
+  "homepage": "https://github.com/coderq/cloudflare.ddos",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
