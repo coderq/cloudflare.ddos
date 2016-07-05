@@ -1,0 +1,3 @@
+# cloudflare防ddos站点破防
+
+通过模拟站点不断重定向的方法，最终获取站点访问cookie
